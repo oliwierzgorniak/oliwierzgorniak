@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @oliwierzgorniak
-- 👀 I’m interested in Alaska and web dev
+- 👀 I’m interested in Alaska, web dev
 - 📫 You can reach me on:
   - element.io (matrix): oliwierzgorniak
   - instagram: [oliwierzgorniak](https://instagram.com/oliwierzgorniak)
   - twitter: [oliwierzgorniak](https://twitter.com/oliwierzgorniak)
+  - facebook: [oliwier.zgorniak](https://www.facebook.com/oliwier.zgorniak)
